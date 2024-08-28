@@ -1,1 +1,1 @@
-Étape 1: Analyse des besoins\nÉtape 2: Conception\nÉtape 3: Développement\nÉtape 4: Test\nÉtape 5: Déploiement
+Étape 1: Analyse des besoins\nÉtape 2: Conception détaillée\nÉtape 3: Développement\nÉtape 4: Tests unitaires\nÉtape 5: Déploiement
